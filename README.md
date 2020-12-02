@@ -1,2 +1,2 @@
-# Semaforo_Cruzamento
+# Semaforo Cruzamento
  Primeiro repositório
